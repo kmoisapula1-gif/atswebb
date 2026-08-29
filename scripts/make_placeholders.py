@@ -126,8 +126,7 @@ make_hero("true-skyline.jpg", 1920, 900, "Contact hero — city skyline")
 # Editorial (lighter, used on cream/sand sections)
 make_editorial("true-father-daughter.jpg", 1200, 900, "Home — father and daughter walking")
 
-# Director portraits (4:5)
+# Director portrait (4:5)
 make_portrait("kamogelo.jpg", "Kamogelo Moisapula")
-make_portrait("modiga.jpg", "Modiga Moisapula")
 
 print("Placeholder images written to", os.path.abspath(OUT_DIR))

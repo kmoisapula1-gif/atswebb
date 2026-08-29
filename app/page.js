@@ -99,9 +99,8 @@ export default function HomePage() {
           <div className="eyebrow eyebrow--light">MEET ATANG</div>
           <h2 className="h2" style={{ color: "var(--teal)" }}>A director answers the phone.</h2>
           <p className="body-text text-on-light-muted">
-            Atang is a founder-led South African company. The two directors are personally involved in the work —
-            one leads strategy and client partnerships, the other oversees delivery and quality assurance on every
-            engagement.
+            Atang is a founder-led South African company. The director is personally involved in every
+            engagement — from strategy and client partnerships through to delivery and quality assurance.
           </p>
           <p className="body-text text-on-light-muted">
             We publish who we are, where we are and how to check that a request is genuine, because tracing work
@@ -124,8 +123,8 @@ export default function HomePage() {
               <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>2025 / 686868 / 07</div>
             </div>
             <div>
-              <div className="small-label" style={{ color: "var(--terracotta)" }}>DIRECTORS</div>
-              <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>K. Moisapula · M. Moisapula</div>
+              <div className="small-label" style={{ color: "var(--terracotta)" }}>DIRECTOR</div>
+              <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>K. Moisapula</div>
             </div>
             <div>
               <div className="small-label" style={{ color: "var(--terracotta)" }}>REGISTERED OFFICE</div>

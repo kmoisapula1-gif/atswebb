@@ -61,10 +61,6 @@ export default function Footer() {
             <a href="tel:+27718230454" style={{ color: "var(--body-light-1)" }}>
               071 823 0454
             </a>
-            <br />
-            <a href="tel:+27832775487" style={{ color: "var(--body-light-1)" }}>
-              083 277 5487
-            </a>
           </div>
         </div>
 

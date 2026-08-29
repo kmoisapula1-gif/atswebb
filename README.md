@@ -39,7 +39,6 @@ one is and its expected shape):
 | Filename | Used for | Shape |
 |---|---|---|
 | `kamogelo.jpg` | Kamogelo's portrait (About, Contact) | portrait, 4:5 |
-| `modiga.jpg` | Modiga's portrait (About, Contact) | portrait, 4:5 |
 | `true-family-sunset.jpg` | Home page hero | wide |
 | `true-street.jpg` | About page hero | wide |
 | `advisor-meeting.jpg` | About page (currently unused directly, kept for future use) | wide |

@@ -165,7 +165,7 @@ export default function ContactPage() {
                   info@atangts.co.za
                 </a>
                 <p style={{ margin: 0, fontSize: 17, fontWeight: 300, lineHeight: 1.55, color: "var(--body-dark-2)", maxWidth: 520 }}>
-                  Suppliers, partnerships, careers and press. One of the directors will route it.
+                  Suppliers, partnerships, careers and press. The director will route it personally.
                 </p>
               </div>
               <div className="stack" style={{ "--gap": "14px" }}>
@@ -192,7 +192,7 @@ export default function ContactPage() {
       <section className="section section--sand stack" style={{ "--gap": "26px" }}>
         <div className="stack" style={{ "--gap": "10px" }} data-reveal="1">
           <div className="eyebrow eyebrow--light">SPEAK TO A DIRECTOR</div>
-          <h2 className="h2" style={{ color: "var(--teal)", fontSize: "clamp(26px, 3vw, 38px)" }}>Two people. Both answer.</h2>
+          <h2 className="h2" style={{ color: "var(--teal)", fontSize: "clamp(26px, 3vw, 38px)" }}>One person. Always answers.</h2>
         </div>
         <div className="grid-autofit" style={{ "--min": "320px", "--gap": "24px" }}>
           {directors.map((d) => (

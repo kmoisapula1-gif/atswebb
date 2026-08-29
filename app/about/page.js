@@ -57,7 +57,7 @@ export default function AboutPage() {
             </div>
             <div>
               <div className="small-label" style={{ color: "var(--muted-grey)" }}>STRUCTURE</div>
-              <div style={{ fontSize: 18, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>Family-founded, director-led</div>
+              <div style={{ fontSize: 18, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>Founder-led</div>
             </div>
             <div>
               <div className="small-label" style={{ color: "var(--muted-grey)" }}>FOCUS</div>
@@ -80,8 +80,8 @@ export default function AboutPage() {
             className="body-text body-text--sm text-on-light-muted"
             style={{ paddingTop: 6, borderTop: "1px solid var(--sand-hairline-1)" }}
           >
-            Atang is family-founded and built on shared accountability. As directors we work closely together and
-            remain directly involved in every engagement.
+            Atang is founder-led and built on personal accountability. The director remains directly involved in
+            every engagement, from first contact through to delivery.
           </p>
         </div>
       </section>
