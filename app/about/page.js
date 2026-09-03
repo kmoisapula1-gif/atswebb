@@ -72,7 +72,7 @@ export default function AboutPage() {
               <div style={{ fontSize: 18, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>
                 Atang Tracing Services (Pty) Ltd
                 <br />
-                2025 / 686868 / 07
+                South Africa
               </div>
             </div>
           </div>

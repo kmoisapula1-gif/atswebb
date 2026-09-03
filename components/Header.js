@@ -41,14 +41,6 @@ export default function Header() {
         </span>
       </Link>
 
-      {/*
-        Layout constraint (kept intentionally): the "Email us" CTA lives
-        INSIDE this <nav>, not as a separate flex child of the header. If it
-        were a sibling of <nav>, it becomes the item that wraps to its own
-        row at ~840-900px viewport widths, leaving empty teal space above it.
-        As built here, the nav's own buttons wrap first and the CTA stays
-        anchored at the end of the row/group.
-      */}
       <nav
         style={{
           flex: "1 1 auto",
@@ -68,9 +60,6 @@ export default function Header() {
         <Link href="/governance?route=member" className="nav-verify">
           VERIFY A CALL
         </Link>
-        <a href="mailto:info@atangts.co.za" className="nav-cta">
-          Email us
-        </a>
       </nav>
     </header>
   );

@@ -77,8 +77,8 @@ export default function HomePage() {
         style={{ "--min": "200px", "--gap": "20px 32px", background: "var(--teal-card)", padding: "26px 5%", boxSizing: "border-box" }}
       >
         <div className="stack" style={{ "--gap": "5px" }}>
-          <div style={{ fontSize: 14, fontWeight: 800, color: "var(--peach)", letterSpacing: "0.1em" }}>REGISTERED ENTITY</div>
-          <div style={{ fontSize: 15, fontWeight: 300, color: "var(--body-light-1)" }}>Atang Tracing Services (Pty) Ltd · 2025/686868/07</div>
+          <div style={{ fontSize: 14, fontWeight: 800, color: "var(--peach)", letterSpacing: "0.1em" }}>REGISTERED IN SOUTH AFRICA</div>
+          <div style={{ fontSize: 15, fontWeight: 300, color: "var(--body-light-1)" }}>Atang Tracing Services (Pty) Ltd</div>
         </div>
         <div className="stack" style={{ "--gap": "5px" }}>
           <div style={{ fontSize: 14, fontWeight: 800, color: "var(--peach)", letterSpacing: "0.1em" }}>POPIA-CONSCIOUS</div>
@@ -99,8 +99,8 @@ export default function HomePage() {
           <div className="eyebrow eyebrow--light">MEET ATANG</div>
           <h2 className="h2" style={{ color: "var(--teal)" }}>A director answers the phone.</h2>
           <p className="body-text text-on-light-muted">
-            Atang is a founder-led South African company. The director is personally involved in every
-            engagement — from strategy and client partnerships through to delivery and quality assurance.
+            Atang is a founder-led South African company. Engagements are run by the people who own the
+            outcome — so decisions are made quickly, and you always know who is accountable for your portfolio.
           </p>
           <p className="body-text text-on-light-muted">
             We publish who we are, where we are and how to check that a request is genuine, because tracing work
@@ -119,12 +119,8 @@ export default function HomePage() {
               <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>Atang Tracing Services (Pty) Ltd</div>
             </div>
             <div>
-              <div className="small-label" style={{ color: "var(--terracotta)" }}>REGISTRATION NUMBER</div>
-              <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>2025 / 686868 / 07</div>
-            </div>
-            <div>
-              <div className="small-label" style={{ color: "var(--terracotta)" }}>DIRECTOR</div>
-              <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>K. Moisapula</div>
+              <div className="small-label" style={{ color: "var(--terracotta)" }}>ACCOUNTABILITY</div>
+              <div style={{ fontSize: 17, fontWeight: 600, color: "var(--teal)", marginTop: 4 }}>A named director per engagement</div>
             </div>
             <div>
               <div className="small-label" style={{ color: "var(--terracotta)" }}>REGISTERED OFFICE</div>

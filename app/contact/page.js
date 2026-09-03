@@ -238,7 +238,7 @@ export default function ContactPage() {
           <div style={{ fontSize: 18, fontWeight: 300, color: "var(--body-dark-1)", lineHeight: 1.6, paddingTop: 8 }}>
             Atang Tracing Services (Pty) Ltd
             <br />
-            Reg. 2025/686868/07
+            Registered in South Africa
           </div>
         </div>
         <div>

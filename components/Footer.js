@@ -29,8 +29,6 @@ export default function Footer() {
           <div style={{ fontSize: 14, fontWeight: 300, lineHeight: 1.6, color: "var(--body-light-2)" }}>
             Atang Tracing Services (Pty) Ltd
             <br />
-            Reg. 2025/686868/07
-            <br />
             Pretoria, South Africa
           </div>
         </div>
