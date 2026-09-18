@@ -52,8 +52,8 @@ export default function Footer() {
             CONTACT
           </div>
           <div style={{ fontSize: 15, fontWeight: 300, lineHeight: 1.7, color: "var(--body-light-1)" }}>
-            <a href="mailto:info@atangts.co.za" style={{ color: "var(--body-light-1)" }}>
-              info@atangts.co.za
+            <a href="mailto:info@atangtracing.co.za" style={{ color: "var(--body-light-1)" }}>
+              info@atangtracing.co.za
             </a>
             <br />
             <a href="tel:+27718230454" style={{ color: "var(--body-light-1)" }}>
@@ -97,8 +97,8 @@ export default function Footer() {
               071 823 0454
             </a>{" "}
             or email{" "}
-            <a href="mailto:info@atangts.co.za" style={{ color: "var(--peach)", fontWeight: 600 }}>
-              info@atangts.co.za
+            <a href="mailto:info@atangtracing.co.za" style={{ color: "var(--peach)", fontWeight: 600 }}>
+              info@atangtracing.co.za
             </a>
             .
           </div>

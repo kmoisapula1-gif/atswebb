@@ -8,7 +8,7 @@ import { CircleMark, SquareMark, DiamondMark } from "@/components/icons";
 import { directors } from "@/lib/content";
 
 const PORTFOLIO_MAILTO =
-  "mailto:info@atangts.co.za?subject=Portfolio%20enquiry&body=Organisation%3A%0D%0ARole%3A%0D%0AApproximate%20portfolio%20size%3A%0D%0AWhat%20information%20you%20currently%20hold%3A%0D%0ATracing%2C%20verification%20or%20both%3A%0D%0AAdditional%20context%3A%0D%0A";
+  "mailto:info@atangtracing.co.za?subject=Portfolio%20enquiry&body=Organisation%3A%0D%0ARole%3A%0D%0AApproximate%20portfolio%20size%3A%0D%0AWhat%20information%20you%20currently%20hold%3A%0D%0ATracing%2C%20verification%20or%20both%3A%0D%0AAdditional%20context%3A%0D%0A";
 
 export default function ContactPage() {
   const [route, setRoute] = useState("portfolio");
@@ -61,10 +61,10 @@ export default function ContactPage() {
               <div className="stack" style={{ "--gap": "14px" }}>
                 <div className="small-label" style={{ color: "var(--terracotta)", letterSpacing: "0.2em" }}>EMAIL A DIRECTOR</div>
                 <a
-                  href="mailto:info@atangts.co.za"
+                  href="mailto:info@atangtracing.co.za"
                   style={{ fontSize: "clamp(21px, 2.4vw, 30px)", fontWeight: 900, color: "var(--teal)", letterSpacing: "-0.01em" }}
                 >
-                  info@atangts.co.za
+                  info@atangtracing.co.za
                 </a>
                 <p style={{ margin: 0, fontSize: 17, fontWeight: 300, lineHeight: 1.55, color: "var(--body-dark-2)", maxWidth: 520 }}>
                   Tell us the portfolio size and what you already know. We come back with a scoped approach — no
@@ -123,7 +123,7 @@ export default function ContactPage() {
                   will confirm whether the call came from us and which fund instructed us.
                 </p>
                 <a
-                  href="mailto:info@atangts.co.za?subject=Verify%20a%20call%20from%20Atang"
+                  href="mailto:info@atangtracing.co.za?subject=Verify%20a%20call%20from%20Atang"
                   className="btn btn--teal"
                   style={{ alignSelf: "flex-start" }}
                 >
@@ -159,10 +159,10 @@ export default function ContactPage() {
               <div className="stack" style={{ "--gap": "14px" }}>
                 <div className="small-label" style={{ color: "var(--terracotta)", letterSpacing: "0.2em" }}>EMAIL US</div>
                 <a
-                  href="mailto:info@atangts.co.za"
+                  href="mailto:info@atangtracing.co.za"
                   style={{ fontSize: "clamp(21px, 2.4vw, 30px)", fontWeight: 900, color: "var(--teal)", letterSpacing: "-0.01em" }}
                 >
-                  info@atangts.co.za
+                  info@atangtracing.co.za
                 </a>
                 <p style={{ margin: 0, fontSize: 17, fontWeight: 300, lineHeight: 1.55, color: "var(--body-dark-2)", maxWidth: 520 }}>
                   Suppliers, partnerships, careers and press. The director will route it personally.

@@ -189,7 +189,7 @@ export default function AboutPage() {
           </p>
         </div>
         <div className="row">
-          <a href="mailto:info@atangts.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
+          <a href="mailto:info@atangtracing.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
             Discuss a portfolio
           </a>
           <Link href="/services" className="btn btn--outline-light">

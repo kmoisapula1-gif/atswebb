@@ -166,8 +166,8 @@ export default function ServicesPage() {
           </p>
         </div>
         <div className="row">
-          <a href="mailto:info@atangts.co.za?subject=Scoping%20enquiry" className="btn btn--teal">
-            Email info@atangts.co.za
+          <a href="mailto:info@atangtracing.co.za?subject=Scoping%20enquiry" className="btn btn--teal">
+            Email info@atangtracing.co.za
           </a>
           <span style={{ fontSize: 16, fontWeight: 300, color: "var(--body-dark-2)" }}>or call a director on 071 823 0454</span>
         </div>

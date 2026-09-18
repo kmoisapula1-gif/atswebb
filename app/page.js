@@ -62,7 +62,7 @@ export default function HomePage() {
             and beneficiaries linked to unclaimed employee benefits across South Africa.
           </p>
           <div className="row" style={{ paddingTop: 8 }}>
-            <a href="mailto:info@atangts.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
+            <a href="mailto:info@atangtracing.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
               Discuss a portfolio
             </a>
             <Link href="/governance" className="btn btn--outline-light">
@@ -229,7 +229,7 @@ export default function HomePage() {
           ))}
         </div>
         <div className="row" style={{ paddingTop: 8 }}>
-          <a href="mailto:info@atangts.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
+          <a href="mailto:info@atangtracing.co.za?subject=Portfolio%20enquiry" className="btn btn--peach">
             Discuss a portfolio
           </a>
           <span style={{ fontSize: 16, fontWeight: 300, color: "var(--body-light-2)" }}>or call a director on 071 823 0454</span>

@@ -142,8 +142,8 @@ export default function GovernanceContent() {
             <div style={{ fontSize: 18, fontWeight: 800, color: "var(--peach)" }}>If something feels wrong, stop and check with us.</div>
             <p style={{ margin: 0, fontSize: 17, fontWeight: 300, lineHeight: 1.55, color: "var(--body-light-1)" }}>
               Email{" "}
-              <a href="mailto:info@atangts.co.za" style={{ color: "var(--peach)", fontWeight: 600 }}>
-                info@atangts.co.za
+              <a href="mailto:info@atangtracing.co.za" style={{ color: "var(--peach)", fontWeight: 600 }}>
+                info@atangtracing.co.za
               </a>{" "}
               or call 071 823 0454 — the number published on this site, not one you were given in a message. We
               would far rather answer a query than have anyone lose money to someone using our name.
@@ -179,7 +179,7 @@ export default function GovernanceContent() {
               <h2 className="h2" style={{ color: "var(--teal)", fontSize: "clamp(26px, 3.2vw, 40px)" }}>POPIA and PAIA documents.</h2>
               <p className="body-text text-on-light-muted">
                 Download, complete and email the relevant form to{" "}
-                <a href="mailto:info@atangts.co.za" style={{ fontWeight: 600 }}>info@atangts.co.za</a>. Requests
+                <a href="mailto:info@atangtracing.co.za" style={{ fontWeight: 600 }}>info@atangtracing.co.za</a>. Requests
                 are acknowledged in writing and handled by the information officer.
               </p>
             </div>
@@ -224,7 +224,7 @@ export default function GovernanceContent() {
               <div style={{ fontSize: 17, fontWeight: 800, color: "var(--teal)" }}>Information officer</div>
               <p style={{ margin: "6px 0 0", fontSize: 16, fontWeight: 300, lineHeight: 1.5, color: "var(--body-dark-2)" }}>
                 Kamogelo Moisapula ·{" "}
-                <a href="mailto:info@atangts.co.za" style={{ fontWeight: 600 }}>info@atangts.co.za</a> · 071 823
+                <a href="mailto:info@atangtracing.co.za" style={{ fontWeight: 600 }}>info@atangtracing.co.za</a> · 071 823
                 0454. Signed hard copies are available on request at the registered office.
               </p>
             </div>
@@ -240,7 +240,7 @@ export default function GovernanceContent() {
                 if something goes wrong.
               </p>
               <a
-                href="mailto:info@atangts.co.za?subject=Governance%20information%20request"
+                href="mailto:info@atangtracing.co.za?subject=Governance%20information%20request"
                 className="btn btn--peach"
                 style={{ alignSelf: "flex-start", marginTop: 6 }}
               >
