@@ -44,7 +44,7 @@ export default function ServicesPage() {
         </div>
       </section>
 
-      <section className="section section--cream stack" style={{ "--gap": "32px", paddingBottom: 56 }}>
+      <section id="core-services" className="section section--cream stack" style={{ "--gap": "32px", paddingBottom: 56, scrollMarginTop: 110 }}>
         <div className="stack" style={{ "--gap": "12px", maxWidth: 820 }} data-reveal="1">
           <div className="eyebrow eyebrow--light">CORE SERVICES</div>
           <h2 className="h2" style={{ color: "var(--teal)" }}>The work that finds and confirms people.</h2>
@@ -77,7 +77,7 @@ export default function ServicesPage() {
         </div>
       </section>
 
-      <section className="section--cream stack" style={{ "--gap": "20px", padding: "0 5% 72px", boxSizing: "border-box" }}>
+      <section id="supporting-services" className="section--cream stack" style={{ "--gap": "20px", padding: "0 5% 72px", boxSizing: "border-box", scrollMarginTop: 110 }}>
         <div className="stack" style={{ "--gap": "8px", maxWidth: 820 }} data-reveal="1">
           <div className="eyebrow" style={{ color: "var(--muted-grey)" }}>SUPPORTING SERVICES</div>
           <p className="body-text body-text--sm text-on-light-muted" style={{ margin: 0 }}>
@@ -103,7 +103,7 @@ export default function ServicesPage() {
         ))}
       </section>
 
-      <section className="section section--teal stack" style={{ "--gap": "32px" }}>
+      <section id="engagement-models" className="section section--teal stack" style={{ "--gap": "32px", scrollMarginTop: 110 }}>
         <div className="stack" style={{ "--gap": "14px", maxWidth: 820 }} data-reveal="1">
           <div className="eyebrow eyebrow--dark">WAYS WE WORK TOGETHER</div>
           <h2 className="h2" style={{ color: "var(--cream)" }}>Engagement models.</h2>
